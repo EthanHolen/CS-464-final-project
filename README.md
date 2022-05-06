@@ -22,9 +22,10 @@ The purpose of this experiment is to explore the benefits of different instructi
 
 ## Helpful Links
 
-- [Checkpoint 2 Video](https://youtu.be/ZNP0AYPcdKY)
+- [Final Report](FOW_Final_Report.pdf)
 - [Final Video (project overview)]()
 - [Website URL](website/index.html)
 - [GitHub Repo](https://github.com/EthanHolen/CS-464-final-project)
+- [Checkpoint 2 Video](https://youtu.be/ZNP0AYPcdKY)
 
 
